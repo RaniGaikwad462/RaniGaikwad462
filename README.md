@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! I'm Rani — a 👩‍💻 Java Backend Developer by day and 👩‍🍳experimental home chef by night.<br><br>✨ I’m currently transitioning into the world of backend engineering, building microservices with Java, Spring Boot, Kafka, and AWS. <br>I’ve previously worked on core banking systems, vendor data platforms, and enterprise procurement tools.<br>But my journey into tech wasn’t exactly traditional...<br><br>👷‍♀️ Former Civil Engineer → 💼 Fintech Professional → 🎓 Master’s in MIS (UIC) → 👩‍💻 Full-stack problem solver<br>🌍 I’m also proud to be the first in my family to move to the U.S., chasing big dreams and building my career from the ground up💪
+# 💫 Hey there! I'm Rani — a 👩‍💻 Java Backend Developer by day and 👩‍🍳experimental home chef by night.
+<br><br>✨ I’m currently transitioning into the world of backend engineering, building microservices with Java, Spring Boot, Kafka, and AWS. <br>I’ve previously worked on core banking systems, vendor data platforms, and enterprise procurement tools.<br>But my journey into tech wasn’t exactly traditional...<br><br>👷‍♀️ Former Civil Engineer → 💼 Fintech Professional → 🎓 Master’s in MIS (UIC) → 👩‍💻 Full-stack problem solver<br>🌍 I’m also proud to be the first in my family to move to the U.S., chasing big dreams and building my career from the ground up💪
 
 
 ## 🌐 Socials:
